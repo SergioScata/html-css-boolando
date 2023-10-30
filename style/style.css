@@ -35,3 +35,18 @@
 h2{
     margin-bottom: 30px;
 }
+
+.header-flex{
+    background-color: rgb(255, 105, 0);
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding-top: 8px;
+}
+
+.logo-size{
+    height: 40px;
+    width: 200px;
+}
+
